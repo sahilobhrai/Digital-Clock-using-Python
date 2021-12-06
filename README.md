@@ -1,4 +1,5 @@
 ## Python | Create a digital clock using Tkinter
+![](https://github.com/sahilobhrai/Digital-Clock-using-Python/blob/main/Screenshot%20(102).png)
 As we know Tkinter is used to create a variety of GUI (Graphical User Interface) applications. In this article we will learn how to create a Digital clock using Tkinter. 
  
 ### Prerequisites: 
